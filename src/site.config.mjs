@@ -1,6 +1,6 @@
 export default {
-    siteTitle: "The Storyteller", // Main site title displayed in header
-    siteSubTitle: "Minimal musings on code, design, and life", // Subtitle shown under main title
+    siteTitle: "Infotag", // Main site title displayed in header
+    siteSubTitle: "Insights That Empower", // Subtitle shown under main title
     copyright: "© 2025 The Storyteller. All Rights Reserved.", // Footer copyright text
     showAuthorsOnHomePage: false, // Display author info on homepage
     showFeaturrdPostsOnHomePage: true, // Show featured posts section on homepage
@@ -28,7 +28,7 @@ export default {
         nextText: "Next", // Text for next page button
         postLabel: "posts", // Label used in pagination info (e.g., "8 posts")
     },
-    defaultAuthorName: "Hasin Hayder",
+    defaultAuthorName: "Sushant",
     showCategoriesLinkOnFooter: true, // Show Categories link in footer
     showTagsLinkOnFooter: true, // Show Tags link in footer
     showAuthorsLinkOnFooter: true, // Show Authors link in footer
@@ -38,6 +38,6 @@ export default {
     numberOfLatestPostsOnHomePage: 6, // Number of latest posts on homepage
     numberOfBlogPostsPerPage: 8, // Number of posts per paginated blog
 
-    gTag: "G-V5QHDKBFP" // Google Analytics tracking ID
+    gTag: "G-xxxxxx" // Google Analytics tracking ID
 }
 
