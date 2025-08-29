@@ -1,7 +1,7 @@
 export default {
     siteTitle: "Infotag", // Main site title displayed in header
     siteSubTitle: "Insights That Empower", // Subtitle shown under main title
-    copyright: "© 2025 The Storyteller. All Rights Reserved.", // Footer copyright text
+    copyright: "© 2025 Infotag. All Rights Reserved.", // Footer copyright text
     showAuthorsOnHomePage: false, // Display author info on homepage
     showFeaturrdPostsOnHomePage: true, // Show featured posts section on homepage
     showCategoryOnPosts: true, // Display categories on posts in homepage
